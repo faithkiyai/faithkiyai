@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faithkiyai
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on projects on data
+- 👀 I'm a data enthusiast
+- 🌱 I’m currently improving my skills in Artificial Intelligence and Machine Learning
 - 📫 How to reach me kiyaifaith@gmail.com
 
 <!---
